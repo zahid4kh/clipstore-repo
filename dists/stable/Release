@@ -1,0 +1,29 @@
+Origin: ClipStore
+Label: ClipStore Repository
+Suite: stable
+Codename: stable
+Date: Fri, 21 Mar 2025 20:31:21 UTC
+Architectures: amd64
+Components: main
+Description: ClipStore Debian Repository
+MD5Sum:
+ 20a045a5da2484ea80a111d68035707b 821 main/binary-amd64/Packages
+ ee56072c296f79a7f0baddbb767b65d9 519 main/binary-amd64/Packages.gz
+ 7c35bf3619898560b535a108a403df3c 139 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ dd278eb1666dc84c8c892a41e112cd81 140 main/source/Release
+SHA1:
+ a7bd39c7ceada5013ef991757363fe6cf155c712 821 main/binary-amd64/Packages
+ ca31db70c40f10eb07bca9959671e723c3269103 519 main/binary-amd64/Packages.gz
+ 809adb37fa39382525e3d35a86f3e5ac25a3e565 139 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ cc291c97da4fb9e594ee228348b0160e2517f79f 140 main/source/Release
+SHA256:
+ 4543182dee4ed9201aace3fc0f362418fa465f57a7a680a95d54d1ac1f6955b3 821 main/binary-amd64/Packages
+ f35d0478bcdf629ad11510ab46b13254b0a5a050115aaf0cac87f0de0f6de81d 519 main/binary-amd64/Packages.gz
+ d889f845021387184283142d5a126dd57ef92f3df42cbf17d01c773331e67a8e 139 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 43307dfab0123f63a838905d9adfcc7e95ea8c558f74f702a06a58a06d2fffb0 140 main/source/Release

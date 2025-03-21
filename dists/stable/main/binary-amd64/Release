@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ClipStore
+Label: ClipStore Repository
+Architecture: amd64
+Description: ClipStore Debian Repository
