@@ -5,4 +5,4 @@ Codename: stable
 Architectures: amd64 source
 Components: main
 Description: ClipStore Debian Repository
-SignWith: B4699475863B28ADEF2C468F7A1AC7CCB7D4925C
+SignWith: B4699475B63B28ADEF2C468F7A1AC7CCB7D4925C
