@@ -1,0 +1,13 @@
+
+*~
+*.swp
+.DS_Store
+
+
+*.log
+
+
+db/
+
+
+tmp/
