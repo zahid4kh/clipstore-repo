@@ -4,7 +4,7 @@ ClipStore is a modern, feature-rich clipboard manager for desktop built with Kot
 
 ![ClipStore Main Interface](screenshots/main-screen.png)
 
-## ✨ Features
+#### ✨ Features
 
 - **📋 Comprehensive Clipboard History** - Automatically tracks text, rich text(coming soon!!!), images, and file references
 - **🔍 Powerful Search & Filter** - Quickly find past clipboard items
@@ -25,7 +25,7 @@ ClipStore is a modern, feature-rich clipboard manager for desktop built with Kot
   <img src="screenshots/file-preview.png" alt="File Preview" width="45%">
 </div>
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 - **Kotlin** - Primary programming language
 - **Compose Multiplatform** - UI toolkit
@@ -39,10 +39,10 @@ ClipStore is a modern, feature-rich clipboard manager for desktop built with Kot
 
 ```bash
 # Download and install the GPG key
-wget -O - https://zahid4kh.github.io/clipstore-repo/public.key | sudo apt-key add -
+wget -O - https://zahid4kh.github.io/clipstore-repo/public.key | sudo gpg --dearmor -o /usr/share/keyrings/clipstore-archive-keyring.gpg
 
 # Add repository to sources.list
-echo "deb [arch=amd64] https://zahid4kh.github.io/clipstore-repo stable main" | sudo tee /etc/apt/sources.list.d/clipstore.list
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/clipstore-archive-keyring.gpg] https://zahid4kh.github.io/clipstore-repo stable main" | sudo tee /etc/apt/sources.list.d/clipstore.list
 
 # Update package database
 sudo apt update
