@@ -1,16 +1,16 @@
 Package: clipstore
-Version: 1.1.0-1
+Version: 1.1.1-1
 Maintainer: Unknown <funroboticshere@gmail.com>
 Architecture: amd64
 Provides: clipstore
 Priority: optional
 Section: utility
-Filename: pool/main/c/clipstore/clipstore_1.1.0-1_amd64.deb
-Size: 57338466
-SHA256: 4125fdbbfbc49ffb4d5016f3261e542e9408e3f5b64e1501345e34f861be6675
-SHA1: acdef1247e0fd1ac4ffdbb9775dbe7e2d83f7cdf
-MD5sum: f10338873c3476bc6417b249f2f9cda9
+Filename: pool/main/c/clipstore/clipstore_1.1.1-1_amd64.deb
+Size: 57346406
+SHA256: 50a7ee70c1d72edb07c75544f5900c02aa348615df1fcc4ce1cef97b92382480
+SHA1: ef2e6b382b820cc4b24320741bcfcd80c1c4aba1
+MD5sum: ccbf6070495d8e65284710198a044618
 Description: ClipStore
 Depends: libasound2t64, libbrotli1, libbsd0, libbz2-1.0, libc6, libexpat1, libfontconfig1, libfreetype6, libgcc-s1, libgif7, libgl1, libglib2.0-0t64, libglvnd0, libglx0, libgraphite2-3, libharfbuzz0b, libjpeg-turbo8, liblcms2-2, libmd0, libpcre2-8-0, libpng16-16t64, libstdc++6, libx11-6, libxau6, libxcb1, libxdmcp6, libxext6, libxi6, libxrender1, libxtst6, xdg-utils, zlib1g 
-Installed-Size: 133825
+Installed-Size: 133830
 
